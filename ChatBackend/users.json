@@ -1,0 +1,14 @@
+{
+  "data": [
+    {
+      "name": "u1, pwd: 1234",
+      "email": "u1@test.de",
+      "sha1PWHash": "7110eda4d09e062aa5e4a390b0a572ac0d2c0220"
+    },
+    {
+      "name": "phe, pwd: 1234",
+      "email": "phe@test.de",
+      "sha1PWHash": "7110eda4d09e062aa5e4a390b0a572ac0d2c0220"
+    }
+  ]
+}
